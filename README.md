@@ -1,15 +1,15 @@
-# (Titlu)
-(Scurtă descriere)
+# Drum machine and Schroeder Reverb
+Acest proiect consta in construirea unui patch in max pentru un Drum machine si pentru un efect reverb ( Schroeder reverberator).
 
 ## (Instalare)
 ...
 
 ## (Utilizare)
-...
+Patchul pentru efectul de reverb are doua knob-uri simple care vor face modificari parametrice pentru a modifica tipul de reverberatii pe care le obtinem pentru orice sunet folosit
 
 ## (Istoric)
 
-(13.05) ...
+(13.05) Patchul pentru reverb a fost facut si urcat pe github
 
 (3.06) ...
 
