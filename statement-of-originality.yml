@@ -5,7 +5,7 @@ name: Cheroiu Dominic-Gabriel
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
-  own work, with the following exceptions:
+  own work, with the following exceptions: code for kick, snare.
 
 
 # add as many "name+comment" entries as necessary
@@ -18,14 +18,54 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
+  - comment:Snare
+    url:https://www.youtube.com/watch?v=5VBmqk9v4Kk&t=389s
     licence:
+  - comment:Kick
+    url:https://www.youtube.com/watch?v=86EpMhBCNbo&t=453s
+    licence:
+  - comment:Step sequencer
+    url:https://www.youtube.com/watch?v=hYc2a1ONTck&list=PLD45EDA6F67827497&index=2
+    licence:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=SJiOXhbF810
+    licence:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=F_FhvxT5mLA
+    licence:    
 
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment:
-    url:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=SJiOXhbF810
     licence:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=F_FhvxT5mLA
+    licence:  
+  - comment:Schroeder Reverb
+    url:https://ccrma.stanford.edu/~jos/pasp/Schroeder_Reverberators.html
+    licence:  
+  - comment:Schroeder Reverb
+    url:https://www.dsprelated.com/freebooks/pasp/Schroeder_Reverberators.html
+    licence:
+  - comment:Drum sequencer
+    url:https://www.youtube.com/watch?v=jVVbaJBdbuA
+    licence:
+  - comment:Drum sequencer
+    url:https://www.youtube.com/watch?v=IYAwtRxZiAY
+    licence:
+  - comment:Drum sequencer
+    url:https://www.youtube.com/watch?v=N9SwxvHmeRU
+    licence:  
+  - comment:Sequencing basic
+    url:https://www.youtube.com/watch?v=PfUn22ghEbo
+    licence:   
+    
+    
+    
+    
+    
+    
+    
