@@ -2,21 +2,22 @@
 Acest proiect consta in construirea unui patch in max pentru un Drum machine si pentru un efect reverb ( Schroeder reverberator).
 
 ## (Instalare)
-...
+Se descarca patchul de proiect si se va deschide cu programul Max 7 sau 8. Apoi parametrii vor fi modificati in functie de dorintele utilizatorului ( beat-ul pe care doreste sa il faca, tonul sunetelor, efectul de reverberatie).
 
 ## (Utilizare)
-Patchul pentru efectul de reverb are doua knob-uri simple care vor face modificari parametrice pentru a modifica tipul de reverberatii pe care le obtinem pentru orice sunet folosit
+Patchul pentru efectul de reverb are doua knob-uri simple care vor face modificari parametrice pentru a modifica tipul de reverberatii pe care le obtinem pentru orice sunet folosit.
+Patchul pentru drum machine se foloseste de o matrice in care pot fi adaugate/ sterse elemente, viteza de redare poate sa fie modificata din parametrul BPM, numarul de coloane ce pot sa fie folosite este modificat cu ajutorul parametrului steps, iar pentru a diversifica beat-ul se va folosi parametrul de shuffle pentru a sari peste anumite note in functie de valoarea utilizata. Sunetele au parametrii ce modifica tonalitatea prin modificarea frecventelor si a timpilor de decay.
 
 ## (Istoric)
 
 (13.05) Patchul pentru reverb a fost facut si urcat pe github
 
-(3.06) ...
+(3.06) Patchul pentru drum machine a fost facut si urcat pe github
 
-(X.06) ...
+(11.06) Patchul pentru proiectul final a facut si urcat pe github
 
 ## (Link-uri)
-...
+
 
 # Dezvoltarea proiectului
 
