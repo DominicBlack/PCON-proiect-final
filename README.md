@@ -17,7 +17,21 @@ Patchul pentru drum machine se foloseste de o matrice in care pot fi adaugate/ s
 (11.06) Patchul pentru proiectul final a facut si urcat pe github
 
 ## (Link-uri)
-
+    comment:Snare
+    url:https://www.youtube.com/watch?v=5VBmqk9v4Kk&t=389s
+    licence:
+  - comment:Kick
+    url:https://www.youtube.com/watch?v=86EpMhBCNbo&t=453s
+    licence:
+  - comment:Step sequencer
+    url:https://www.youtube.com/watch?v=hYc2a1ONTck&list=PLD45EDA6F67827497&index=2
+    licence:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=SJiOXhbF810
+    licence:
+  - comment:Schroeder Reverb
+    url:https://www.youtube.com/watch?v=F_FhvxT5mLA
+    licence:    
 
 # Dezvoltarea proiectului
 
